@@ -1,14 +1,8 @@
 # 👋 Hi there, my name is Sarah Akingbade
 
-- 👋 I am an Estate Surveyor and Valuer (In View), a Data Analyst, and a Technical Writer.
+- 👋 I am a data analyst passionate about using data and technology to derive meaningful insights, drive data-driven decision-making, and improve business performance.
 
-- 👀 I am Passionate about using data and technology to derive meaningful insights from data, drive data-driven decision-making, and improve business performance.
-
-- 🔭 As a data analyst, the tools I use but are not limited to include:
-
-  - Microsoft Power BI
-  - Microsoft Excel
-  - Microsoft Fabric
+- 🔭 As a data analyst, the tools I use include, but are not limited to, Microsoft Power BI.
  
 - ⚡ Fun Fact: I love listening to music.
 
